@@ -63,7 +63,7 @@ npm install
 npm start
 
 ## Screenshots
-![Dashboard Dark](Screenshot/Demo.png)
+![Dashboard Dark](./Screenshot/Demo.png)
 
 Author
 
