@@ -2,7 +2,6 @@
 
 An **AI-powered Resume Builder** that helps users create professional, ATS-friendly resumes with real-time improvement suggestions from OpenAI.  
 
-**Live Demo (optional if deployed)**: [Add your link here]  
 **GitHub Repo**: [AI-Resume-Builder](https://github.com/lavanya-jain13/AI-Resume-Builder)
 
 ---
